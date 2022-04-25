@@ -16,7 +16,7 @@ The following results show how the data compares between city types.
 
 ![PyBer Summary DataFrame](https://github.com/psidhu42/pyber-analysis/blob/main/analysis/Summary_df.png)
 
-![PyBer Summary DataFrame](https://github.com/psidhu42/pyber-analysis/blob/main/analysis/Fig1.png)
+As seen in the DataFrame above, although Urban cities have larger totals for Rides, Drivers, and Total Fares, they have the lowest Average Fares per Ride/Driver. Rural cities have the fewest Total Rides and Drivers, but have about 3.35 times the Average Fare per Driver of Urban cities. Average Fare per Ride for each city type has a smaller diffrence than that of Average Fare per Driver for each city type.
 
 ### School Summary
 
