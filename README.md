@@ -22,73 +22,14 @@ This Bubble Chart is a good visual representaion of the Average Fares and Total 
 
 ![PyBer Bubble Chart](https://github.com/psidhu42/pyber-analysis/blob/main/analysis/Fig1.jpg)
 
-### School Summary
+### PyBer Weekly Summary
 
-The school summary only changed for Thomas High School as it was the only school that had the 9th grader scores removed.
+The data above was organized and sorted by dates and fares to better see how each city type performed on a weekly basis.
 
-* Thomas High School Summary Changes
-    - Total Students: No Change
-    - Total Budget: No Change
-    - Per Student Budget: No Change
-    - Average Math Score: Dropped from 83.41 to 83.35
-    - Average Reading Score: Increased from 83.84 to 83.89
-    - % Passing Math: Dropped by 0.1%
-    - % Passing Reading: Dropped by 0.3%
-    - % Overall Passing: Dropped by 0.3%
+Here is an exmple of the new DataFrame created to help with the analysis.
 
-* With All Scores:
+![Fares by Week DataFrame](https://github.com/psidhu42/pyber-analysis/blob/main/analysis/fare_by_week_df.PNG)
 
-![School Summary](https://github.com/psidhu42/school-district-analysis/blob/main/resources/school_summary.PNG)
-
-* Without 9th Grader Scores from THS:
-
-![School Summary Without THS 9th Grader Scores](https://github.com/psidhu42/school-district-analysis/blob/main/resources/school_summary_altered.PNG)
-
-### Scores by Grade
-
-Looking at the DataFrame for Scores by Grade, you can see removing the 9th grader scores from THS only changed those cells to "nan" on both math and reading scores.
-
-* Math Scores by Grade
-
-![Math Scores by Grade](https://github.com/psidhu42/school-district-analysis/blob/main/resources/math_scores_by_grade.PNG)![Math Scores Without THS 9th Graders](https://github.com/psidhu42/school-district-analysis/blob/main/resources/math_scores_by_grade_altered.PNG)
-
-* Reading Scores by Grade
-
-![Reading Scores by Grade](https://github.com/psidhu42/school-district-analysis/blob/main/resources/reading_scores_by_grade.PNG)![Reading Scores Without THS 9th Graders](https://github.com/psidhu42/school-district-analysis/blob/main/resources/reading_scores_by_grade_altered.PNG)
-
-### Scores by School Spending, Size, and Type
-
-The scores by school spending, size, and type did not change at all, as shown in the following images of the DataFrames.
-
-#### Spending
-
-* With All Scores:
-
-![Scores by Spending](https://github.com/psidhu42/school-district-analysis/blob/main/resources/scores_by_spending.PNG)
-
-* Without 9th Grader Scores from THS:
-
-![Scores by Spending Without THS 9th Graders](https://github.com/psidhu42/school-district-analysis/blob/main/resources/scores_by_spending_altered.PNG)
-
-#### Size
-
-* With All Scores:
-
-![Scores by Size](https://github.com/psidhu42/school-district-analysis/blob/main/resources/scores_by_size.PNG)
-
-* Without 9th Grader Scores from THS:
-
-![Scores by Size Without THS 9th Graders](https://github.com/psidhu42/school-district-analysis/blob/main/resources/scores_by_size_altered.PNG)
-
-#### Type
-
-* With All Scores:
-
-![Scores by Type](https://github.com/psidhu42/school-district-analysis/blob/main/resources/scores_by_type.PNG)
-
-* Without 9th Grader Scores from THS:
-
-![Scores by Type Without THS 9th Graders](https://github.com/psidhu42/school-district-analysis/blob/main/resources/scores_by_type_altered.PNG)
 
 ## Summary
 
