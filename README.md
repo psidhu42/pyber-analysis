@@ -16,7 +16,7 @@ The following results show how the data compares between city types.
 
 ![PyBer Summary DataFrame](https://github.com/psidhu42/pyber-analysis/blob/main/analysis/Summary_df.png)
 
-
+![PyBer Summary DataFrame](https://github.com/psidhu42/pyber-analysis/blob/main/analysis/Fig1.png)
 
 ### School Summary
 
