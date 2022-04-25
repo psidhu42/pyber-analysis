@@ -30,6 +30,10 @@ Here is an exmple of the new DataFrame created to help with the analysis.
 
 ![Fares by Week DataFrame](https://github.com/psidhu42/pyber-analysis/blob/main/analysis/fare_by_week_df.PNG)
 
+Once sorted into weekly bins the data was plotted as a multiple-line graph, shown below. 
+
+![Weekly Fares Multi-line Graph](https://github.com/psidhu42/pyber-analysis/blob/main/analysis/PyBer_fare_summary.png)
+
 
 ## Summary
 
